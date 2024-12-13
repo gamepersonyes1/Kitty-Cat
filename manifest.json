@@ -14,12 +14,7 @@
       "js": ["scripts/content.js"],
       "matches": [
         "https://docs.google.com/document/d/*",
-        "https://docs.google.com/presentation/d/*",
-        "https://docs.google.com/forms/d/*",
-        "https://docs.google.com/spreadsheets/d/*",
-        "https://classroom.google.com/c/*",
-        "https://mail.google.com/mail/*",
-        "https://drive.google.com/*"
+        "https://www.youtube.com/watch?v=aZp28JPOqV8"
       ]
     }
   ]
