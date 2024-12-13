@@ -11,7 +11,7 @@ if (article) {
   const badge = document.createElement("p");
   // Use the same styling as the publish information in an article's header
   badge.classList.add("color-secondary-text", "type--caption");
-  badge.textContent = `⏱️ ${readingTime} min read`;
+  badge.textContent = `Kitty has tracked you using google services for ${readingTime} minutes! 🐱‍👓`;
 
   // Support for API reference docs
   const heading = article.querySelector("h1");
